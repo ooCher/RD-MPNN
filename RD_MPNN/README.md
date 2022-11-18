@@ -33,8 +33,3 @@ docker run --rm -it -v {HypE-code-path}:/eai/project --user `id -u`:`id -g` hype
 The default values for most of these parameters are the ones that were used to obtain the results in the paper.
 
 
-
-
-# RD--MPNN
-# RD--MPNN
-# random
